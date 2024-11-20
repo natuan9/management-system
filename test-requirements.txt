@@ -1,0 +1,1 @@
+odoo-addon-mgmtsystem_nonconformity @ git+https://github.com/OCA/management-system.git@refs/pull/611/head#subdirectory=mgmtsystem_nonconformity
